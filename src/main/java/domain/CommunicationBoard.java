@@ -1,4 +1,4 @@
-package repository;
+package domain;
 
 public class CommunicationBoard {
 

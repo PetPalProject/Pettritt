@@ -16,6 +16,6 @@ import lombok.Setter;
 //@AllArgsConstructor
 //@NoArgsConstructor
 //@RequiredArgsConstructor
-public class Adopt {
+public class AdoptBoard {
 
 }

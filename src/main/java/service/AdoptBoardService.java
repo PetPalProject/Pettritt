@@ -1,5 +1,5 @@
 package service;
 
-public class AdoptBoardService {
+public interface AdoptBoardService {
 
 }
